@@ -1,0 +1,3 @@
+Ortam daha parlak olması için window - rendering - lighting setting - auto generete aç.  oyuna ilk başta direk yap -
+ joystick kısmında is dynamic joystick kısmını aktif hale getir yoksa sadece joyistiğe basınca çalışır 
+ama basarsak ekranın her yerinde çalışır
